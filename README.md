@@ -85,8 +85,8 @@ All edges are used exactly once, and the path starts and ends at valid points as
 
 **Project Structure**
 
-eulerian_path.py       # Python script
-input.txt              # Input adjacency list
+BioinformaticsII_solving_eulers_theorem.py       # Python script
+datset.txt              # Input adjacency list
 output.txt             # Eulerian path result
 README.md              # This file
 
