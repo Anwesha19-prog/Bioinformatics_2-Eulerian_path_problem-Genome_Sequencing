@@ -2,6 +2,7 @@
 
 **README: Eulerian Path Problem Solver (Python)**
 
+## Author: Dr Anwesha Sarkar
 **Problem Overview**
 
 An Eulerian path in a directed graph is a path that visits every edge exactly once but does not need to return to the starting node. For a graph to contain an Eulerian path, it must satisfy the following conditions:
